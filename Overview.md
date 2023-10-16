@@ -10,3 +10,7 @@ Data Information: The dataset comprises approximately 20,000 rows and 12 columns
 The project is divided into the following steps:
 1 - Data Import and exploration 
 2 - Data Manipulation and Trasformations 
+3 - Data Splits for Modeling and Testing 
+4 - Models Explorations
+5 - Model Evaluation and Selection 
+6 - Conclusions 
